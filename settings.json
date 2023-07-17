@@ -1,0 +1,103 @@
+{
+	"[css]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[jsonc]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[scss]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[typescript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[typescriptreact]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[yaml]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"diffEditor.ignoreTrimWhitespace": false,
+	"editor.accessibilitySupport": "off",
+	"editor.codeActionsOnSave": {
+		"source.fixAll": true,
+		"source.organizeImports": true
+	},
+	"editor.cursorBlinking": "solid",
+	"editor.cursorSmoothCaretAnimation": "on",
+	"editor.cursorStyle": "block",
+	"editor.fontFamily": "'JetBrainsMono Nerd Font'",
+	"editor.fontLigatures": true,
+	"editor.fontSize": 16,
+	"editor.formatOnPaste": true,
+	"editor.formatOnSave": true,
+	"editor.inlineSuggest.enabled": true,
+	"editor.lineHeight": 26,
+	"editor.linkedEditing": true,
+	"editor.minimap.enabled": false,
+	"editor.renderControlCharacters": false,
+	"editor.renderLineHighlight": "gutter",
+	"editor.renderWhitespace": "all",
+	"editor.showFoldingControls": "always",
+	"editor.smoothScrolling": true,
+	"editor.suggest.insertMode": "replace",
+	"editor.tabSize": 2,
+	"errorLens.enabled": true,
+	"errorLens.enabledDiagnosticLevels": ["warning", "info", "hint", "error"],
+	"eslint.codeActionsOnSave.rules": [],
+	"eslint.format.enable": true,
+	"explorer.compactFolders": false,
+	"explorer.confirmDelete": false,
+	"explorer.confirmDragAndDrop": false,
+	"files.autoSave": "afterDelay",
+	"git.autofetch": true,
+	"git.confirmSync": false,
+	"git.enableSmartCommit": true,
+	"indentRainbow.colorOnWhiteSpaceOnly": true,
+	"indentRainbow.colors": [
+		"rgba(255,255,64,0.2)",
+		"rgba(127,255,127,0.2)",
+		"rgba(255,127,255,0.2)",
+		"rgba(79,236,236,0.2)"
+	],
+	"indentRainbow.indicatorStyle": "light",
+	"indentRainbow.lightIndicatorStyleLineWidth": 1,
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"prettier.bracketSameLine": false,
+	"prettier.bracketSpacing": true,
+	"prettier.jsxSingleQuote": true,
+	"prettier.printWidth": 100,
+	"prettier.quoteProps": "consistent",
+	"prettier.semi": true,
+	"prettier.singleAttributePerLine": true,
+	"prettier.singleQuote": true,
+	"prettier.tabWidth": 2,
+	"prettier.trailingComma": "all",
+	"prettier.useTabs": true,
+	"redhat.telemetry.enabled": true,
+	"svelte.enable-ts-plugin": true,
+	"tailwind-fold.foldStyle": "QUOTES",
+	"tailwind-fold.showTailwindImage": false,
+	"tailwind-fold.unfoldIfLineSelected": true,
+	"tailwindCSS.emmetCompletions": true,
+	"terminal.explorerKind": "external",
+	"terminal.external.windowsExec": "",
+	"terminal.integrated.defaultProfile.osx": "zsh",
+	"typescript.updateImportsOnFileMove.enabled": "always",
+	"update.showReleaseNotes": false,
+	"window.commandCenter": true,
+	"window.zoomLevel": 1,
+	"workbench.colorCustomizations": {
+		"editor.lineHighlightBackground": "#0a84fd1d",
+		"editor.lineHighlightBorder": "#0073ff2e",
+		"editorLineNumber.activeForeground": "#ffffffdc"
+	},
+	"workbench.colorTheme": "One Dark Pro",
+	"workbench.editorAssociations": {
+		"*.db": "default"
+	},
+	"workbench.iconTheme": "icons"
+}
